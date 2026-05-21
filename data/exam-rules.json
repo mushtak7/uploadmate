@@ -1,0 +1,390 @@
+{
+  "exams": [
+    {
+      "id": "upsc",
+      "name": "UPSC Civil Services",
+      "category": "Government Exam",
+      "icon": "🏛️",
+      "popular": true,
+      "photo": {
+        "minSizeKB": 20,
+        "maxSizeKB": 300,
+        "widthPx": 150,
+        "heightPx": 200,
+        "aspectRatio": "3:4",
+        "format": ["jpg", "jpeg"],
+        "dpi": 200,
+        "background": "white",
+        "notes": "Recent passport size photograph with white background"
+      },
+      "signature": {
+        "minSizeKB": 1,
+        "maxSizeKB": 40,
+        "widthPx": 150,
+        "heightPx": 50,
+        "format": ["jpg", "jpeg"],
+        "background": "white",
+        "notes": "Signature on white paper, black ink only"
+      },
+      "officialLink": "https://upsc.gov.in"
+    },
+    {
+      "id": "ssc-cgl",
+      "name": "SSC CGL",
+      "category": "Government Exam",
+      "icon": "📋",
+      "popular": true,
+      "photo": {
+        "minSizeKB": 20,
+        "maxSizeKB": 50,
+        "widthPx": 100,
+        "heightPx": 120,
+        "aspectRatio": "5:6",
+        "format": ["jpg", "jpeg"],
+        "dpi": 200,
+        "background": "white",
+        "notes": "Passport size photo with clear face visibility"
+      },
+      "signature": {
+        "minSizeKB": 1,
+        "maxSizeKB": 20,
+        "widthPx": 140,
+        "heightPx": 60,
+        "format": ["jpg", "jpeg"],
+        "background": "white",
+        "notes": "Signature in black ink on white paper"
+      },
+      "officialLink": "https://ssc.gov.in"
+    },
+    {
+      "id": "ssc-chsl",
+      "name": "SSC CHSL",
+      "category": "Government Exam",
+      "icon": "📋",
+      "popular": true,
+      "photo": {
+        "minSizeKB": 20,
+        "maxSizeKB": 50,
+        "widthPx": 100,
+        "heightPx": 120,
+        "aspectRatio": "5:6",
+        "format": ["jpg", "jpeg"],
+        "dpi": 200,
+        "background": "white",
+        "notes": "Passport size photo with clear face visibility"
+      },
+      "signature": {
+        "minSizeKB": 1,
+        "maxSizeKB": 20,
+        "widthPx": 140,
+        "heightPx": 60,
+        "format": ["jpg", "jpeg"],
+        "background": "white",
+        "notes": "Signature in black ink on white paper"
+      },
+      "officialLink": "https://ssc.gov.in"
+    },
+    {
+      "id": "ibps-po",
+      "name": "IBPS PO",
+      "category": "Banking Exam",
+      "icon": "🏦",
+      "popular": true,
+      "photo": {
+        "minSizeKB": 20,
+        "maxSizeKB": 50,
+        "widthPx": 200,
+        "heightPx": 230,
+        "aspectRatio": "20:23",
+        "format": ["jpg", "jpeg"],
+        "dpi": 200,
+        "background": "white",
+        "notes": "Recent colour passport size photograph"
+      },
+      "signature": {
+        "minSizeKB": 10,
+        "maxSizeKB": 20,
+        "widthPx": 140,
+        "heightPx": 60,
+        "format": ["jpg", "jpeg"],
+        "background": "white",
+        "notes": "Signature in black ink"
+      },
+      "officialLink": "https://ibps.in"
+    },
+    {
+      "id": "ibps-clerk",
+      "name": "IBPS Clerk",
+      "category": "Banking Exam",
+      "icon": "🏦",
+      "popular": false,
+      "photo": {
+        "minSizeKB": 20,
+        "maxSizeKB": 50,
+        "widthPx": 200,
+        "heightPx": 230,
+        "aspectRatio": "20:23",
+        "format": ["jpg", "jpeg"],
+        "dpi": 200,
+        "background": "white",
+        "notes": "Recent colour passport size photograph"
+      },
+      "signature": {
+        "minSizeKB": 10,
+        "maxSizeKB": 20,
+        "widthPx": 140,
+        "heightPx": 60,
+        "format": ["jpg", "jpeg"],
+        "background": "white",
+        "notes": "Signature in black ink"
+      },
+      "officialLink": "https://ibps.in"
+    },
+    {
+      "id": "jee-main",
+      "name": "JEE Main",
+      "category": "Engineering Exam",
+      "icon": "⚙️",
+      "popular": true,
+      "photo": {
+        "minSizeKB": 10,
+        "maxSizeKB": 200,
+        "widthPx": 150,
+        "heightPx": 200,
+        "aspectRatio": "3:4",
+        "format": ["jpg", "jpeg"],
+        "dpi": 200,
+        "background": "white",
+        "notes": "Colour passport size photograph with 80% face coverage"
+      },
+      "signature": {
+        "minSizeKB": 4,
+        "maxSizeKB": 30,
+        "widthPx": 150,
+        "heightPx": 50,
+        "format": ["jpg", "jpeg"],
+        "background": "white",
+        "notes": "Signature in running hand, not in capital letters"
+      },
+      "officialLink": "https://jeemain.nta.nic.in"
+    },
+    {
+      "id": "neet",
+      "name": "NEET UG",
+      "category": "Medical Exam",
+      "icon": "🏥",
+      "popular": true,
+      "photo": {
+        "minSizeKB": 10,
+        "maxSizeKB": 200,
+        "widthPx": 150,
+        "heightPx": 200,
+        "aspectRatio": "3:4",
+        "format": ["jpg", "jpeg"],
+        "dpi": 200,
+        "background": "white",
+        "notes": "White background passport size photograph"
+      },
+      "signature": {
+        "minSizeKB": 4,
+        "maxSizeKB": 30,
+        "widthPx": 150,
+        "heightPx": 50,
+        "format": ["jpg", "jpeg"],
+        "background": "white",
+        "notes": "Candidate's signature in running hand"
+      },
+      "officialLink": "https://neet.nta.nic.in"
+    },
+    {
+      "id": "gate",
+      "name": "GATE",
+      "category": "Engineering Exam",
+      "icon": "⚙️",
+      "popular": false,
+      "photo": {
+        "minSizeKB": 5,
+        "maxSizeKB": 200,
+        "widthPx": 160,
+        "heightPx": 200,
+        "aspectRatio": "4:5",
+        "format": ["jpg", "jpeg", "png"],
+        "dpi": 200,
+        "background": "white",
+        "notes": "Clear recent photograph with white background"
+      },
+      "signature": {
+        "minSizeKB": 5,
+        "maxSizeKB": 50,
+        "widthPx": 300,
+        "heightPx": 80,
+        "format": ["jpg", "jpeg", "png"],
+        "background": "white",
+        "notes": "Signature on white paper"
+      },
+      "officialLink": "https://gate.iisc.ac.in"
+    },
+    {
+      "id": "tcs-nqt",
+      "name": "TCS NQT",
+      "category": "Recruitment",
+      "icon": "💼",
+      "popular": true,
+      "photo": {
+        "minSizeKB": 10,
+        "maxSizeKB": 100,
+        "widthPx": 200,
+        "heightPx": 200,
+        "aspectRatio": "1:1",
+        "format": ["jpg", "jpeg"],
+        "dpi": 200,
+        "background": "white",
+        "notes": "Square passport photo with white background"
+      },
+      "signature": {
+        "minSizeKB": 5,
+        "maxSizeKB": 50,
+        "widthPx": 200,
+        "heightPx": 70,
+        "format": ["jpg", "jpeg"],
+        "background": "white",
+        "notes": "Signature in black or blue ink"
+      },
+      "officialLink": "https://www.tcs.com"
+    },
+    {
+      "id": "indian-passport",
+      "name": "Indian Passport",
+      "category": "Identity Document",
+      "icon": "🛂",
+      "popular": true,
+      "photo": {
+        "minSizeKB": 10,
+        "maxSizeKB": 300,
+        "widthPx": 350,
+        "heightPx": 350,
+        "aspectRatio": "1:1",
+        "format": ["jpg", "jpeg"],
+        "dpi": 300,
+        "background": "white",
+        "notes": "Square photo, 2x2 inches at 300 DPI, white background, 80% face coverage"
+      },
+      "signature": null,
+      "officialLink": "https://passportindia.gov.in"
+    },
+    {
+      "id": "indian-visa",
+      "name": "Indian Visa",
+      "category": "Identity Document",
+      "icon": "✈️",
+      "popular": false,
+      "photo": {
+        "minSizeKB": 10,
+        "maxSizeKB": 300,
+        "widthPx": 350,
+        "heightPx": 350,
+        "aspectRatio": "1:1",
+        "format": ["jpg", "jpeg"],
+        "dpi": 300,
+        "background": "white",
+        "notes": "Square photo with plain light/white background"
+      },
+      "signature": null,
+      "officialLink": "https://indianvisaonline.gov.in"
+    },
+    {
+      "id": "sbi-po",
+      "name": "SBI PO",
+      "category": "Banking Exam",
+      "icon": "🏦",
+      "popular": true,
+      "photo": {
+        "minSizeKB": 20,
+        "maxSizeKB": 50,
+        "widthPx": 200,
+        "heightPx": 230,
+        "aspectRatio": "20:23",
+        "format": ["jpg", "jpeg"],
+        "dpi": 200,
+        "background": "white",
+        "notes": "Recent passport size colour photograph"
+      },
+      "signature": {
+        "minSizeKB": 10,
+        "maxSizeKB": 20,
+        "widthPx": 140,
+        "heightPx": 60,
+        "format": ["jpg", "jpeg"],
+        "background": "white",
+        "notes": "Sign on white paper with black ink"
+      },
+      "officialLink": "https://sbi.co.in"
+    },
+    {
+      "id": "rrb-ntpc",
+      "name": "RRB NTPC",
+      "category": "Railway Exam",
+      "icon": "🚂",
+      "popular": true,
+      "photo": {
+        "minSizeKB": 20,
+        "maxSizeKB": 50,
+        "widthPx": 120,
+        "heightPx": 140,
+        "aspectRatio": "6:7",
+        "format": ["jpg", "jpeg"],
+        "dpi": 200,
+        "background": "white",
+        "notes": "Colour passport size photograph"
+      },
+      "signature": {
+        "minSizeKB": 10,
+        "maxSizeKB": 20,
+        "widthPx": 140,
+        "heightPx": 60,
+        "format": ["jpg", "jpeg"],
+        "background": "white",
+        "notes": "Signature in black ink on white paper"
+      },
+      "officialLink": "https://rrbcdg.gov.in"
+    },
+    {
+      "id": "cat",
+      "name": "CAT",
+      "category": "Management Exam",
+      "icon": "📊",
+      "popular": false,
+      "photo": {
+        "minSizeKB": 20,
+        "maxSizeKB": 100,
+        "widthPx": 200,
+        "heightPx": 230,
+        "aspectRatio": "20:23",
+        "format": ["jpg", "jpeg"],
+        "dpi": 200,
+        "background": "white",
+        "notes": "Recent passport size photograph"
+      },
+      "signature": {
+        "minSizeKB": 5,
+        "maxSizeKB": 30,
+        "widthPx": 140,
+        "heightPx": 60,
+        "format": ["jpg", "jpeg"],
+        "background": "white",
+        "notes": "Signature on white paper"
+      },
+      "officialLink": "https://iimcat.ac.in"
+    }
+  ],
+  "categories": [
+    { "id": "government", "name": "Government Exam", "icon": "🏛️" },
+    { "id": "banking", "name": "Banking Exam", "icon": "🏦" },
+    { "id": "engineering", "name": "Engineering Exam", "icon": "⚙️" },
+    { "id": "medical", "name": "Medical Exam", "icon": "🏥" },
+    { "id": "railway", "name": "Railway Exam", "icon": "🚂" },
+    { "id": "recruitment", "name": "Recruitment", "icon": "💼" },
+    { "id": "management", "name": "Management Exam", "icon": "📊" },
+    { "id": "identity", "name": "Identity Document", "icon": "🛂" }
+  ]
+}
